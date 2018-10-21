@@ -92,6 +92,6 @@
     source: https://en.wikipedia.org/wiki/SG%26A
 
 18. Operating Income Growth\
-    營業利潤(Operating Income)\
+    營業利潤(Operating Income)
     
-Weighted Average Shares Growth
+19. Weighted Average Shares Growth
