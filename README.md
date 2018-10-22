@@ -93,5 +93,8 @@
 
 18. Operating Income Growth\
     營業利潤(Operating Income)
+
+19. Weighted Average Shares Growth\
+    The weighted average of outstanding shares is a calculation that incorporates any changes in the amount of outstanding shares over a reporting period. It is an important number, as it is used to calculate key financial measures such as earnings per share (EPS) for the time period.\
+    source: https://www.investopedia.com/ask/answers/05/weightedoutstandingshares.asp
     
-19. Weighted Average Shares Growth
